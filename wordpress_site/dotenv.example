@@ -1,0 +1,11 @@
+MYSQL_VERSION=5.7
+MYSQL_ROOT_PASSWORD=root_password
+MYSQL_DATABASE=wordpress
+MYSQL_USER=wordpress_user
+MYSQL_PASSWORD=PASSWORD
+MYSQL_CONTAINER_NAME=wordpress_db
+
+VIRTUAL_HOST=domain.name,www.domain.name
+
+WP_VERSION=latest
+WP_CONTAINER_NAME=wordpress
